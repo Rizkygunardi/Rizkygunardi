@@ -1,5 +1,5 @@
 - ✌🏻 Hallo guys, salam kenal semuanya
-- 🧑🏻‍💻 Saya cukup tertarik dalam bidang front-end serta mobile app
+- 🧑🏻‍💻 Saya cukup tertarik dalam bidang front-end, mobile app serta Software Quality Assurance
 - 💻 Untuk sekarang saya belajar JavaScript
 - 📅 Untuk kedepannya saya ingin belajar React Native dan Swift
 - 🎮 Hobi saya untuk saat ini bermain mobile games
